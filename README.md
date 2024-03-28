@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Japheth Omanyu</h1>
-<h3 align="center">A passionate full stack developer in Nairobi, Kenya</h3>
+<h3 align="center">A passionate Software Engineer from Nairobi, Kenya</h3>
 <image align="right" alt "coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS57x5jWswQqUdkL6tAvQRgDLRMfiZVold4eQ&usqp=CAU"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japh254&label=Profile%20views&color=0e75b6&style=flat" alt="japh254" /> </p>
 
-- 🌱 I’m currently learning **Python,django**
+- 🌱 I’m currently learning **Dart,Flutter**
 
-- 💬 Feel free to reach out to me about **React, Node express, Javascript**
+- 💬 Feel free to reach out to me about **React, Node express, Javascript, Python, Django**
 
 - 📫 Reach me via **omanyujapheth@gmail.com**
 
