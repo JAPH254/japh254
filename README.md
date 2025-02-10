@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Japheth Omanyu</h1>
-<h3 align="center">A seasoned Software Engineer from Nairobi, Kenya</h3>
+<h3 align="center">A seasoned Software Engineer,Nairobi Kenya</h3>
 <image align="right" alt "coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS57x5jWswQqUdkL6tAvQRgDLRMfiZVold4eQ&usqp=CAU"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japh254&label=Profile%20views&color=0e75b6&style=flat" alt="japh254" /> </p>
 
