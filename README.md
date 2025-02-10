@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Japheth Omanyu</h1>
-<h3 align="center">A passionate Software Engineer from Nairobi, Kenya</h3>
+<h3 align="center">A seasoned Software Engineer from Nairobi, Kenya</h3>
 <image align="right" alt "coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS57x5jWswQqUdkL6tAvQRgDLRMfiZVold4eQ&usqp=CAU"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japh254&label=Profile%20views&color=0e75b6&style=flat" alt="japh254" /> </p>
 
-- 🌱 I’m currently learning **Dart,Flutter**
+- 🌱 I’m currently learning **Data (Data science, ML and AI)**
 
-- 💬 Feel free to reach out to me about **React, Node express, Javascript, Python, Django**
+- 💬 Feel free to reach out to me about **React, NextJs, Strapi, Django, Express, Flutter, DeVops** among other software engineering technologies
 
 - 📫 Reach me via **omanyujapheth@gmail.com**
 
