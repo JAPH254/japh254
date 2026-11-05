@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 💻 Full-stack engineer working across **React, Next.js, Node/Express, Django, Strapi and Flutter**
+- 💻 Full-stack engineer working across **React, React Native Next.js, Node/Express, Django, Strapi Flutter among many**
 - 🏗️ I care about clean architecture, maintainable code and shipping features that users actually notice
 - ⚙️ Comfortable owning the whole lifecycle: design → build → test → containerize → deploy
 - 🤝 Open to collaborations, freelance projects and interesting full-stack roles
