@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=japh254&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center"><i>I build fast, reliable web and mobile products, from polished React and Flutter front ends to well-structured APIs and deployment pipelines.</i></p>
+<p align="center"><i>I build fast, reliable web and mobile products, from polished front ends to well-structured APIs and deployment pipelines.</i></p>
 
 ---
 
